@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "title": "Sample",
+    "owner": "SURESH"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "SURESH",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
+    "reviewer": "SURESH"
+  }
+}
